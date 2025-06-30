@@ -12,3 +12,4 @@ C:\Users\user1\Documents\Rivki\AlgorithmPractice\AlgorithmPractice\obj\Debug\net
 C:\Users\user1\Documents\Rivki\AlgorithmPractice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.pdb
 C:\Users\user1\Documents\Rivki\AlgorithmPractice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.genruntimeconfig.cache
 C:\Users\user1\Documents\Rivki\AlgorithmPractice\AlgorithmPractice\obj\Debug\net8.0\ref\AlgorithmPractice.dll
+C:\Users\user1\Documents\Rivki\AlgorithmPractice\AlgorithmPractice\obj\Debug\net8.0\AlgorithmPractice.sourcelink.json
