@@ -10,4 +10,5 @@
 using AlgorithmPractice;
 
 //LongestIncreasingSubsequenceTests.RunTests();
-MajorityElementTests.RunTests();    
+//MajorityElementTests.RunTests();
+BinarySearchTests.RunTests();
