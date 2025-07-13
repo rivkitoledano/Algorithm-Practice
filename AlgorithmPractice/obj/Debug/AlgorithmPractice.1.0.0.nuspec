@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AlgorithmPractice</id>
+    <version>1.0.0</version>
+    <authors>AlgorithmPractice</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="5cb6c06fc85a5347ecfb02ba5eaa2e99d315c3c3" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user1\Documents\Rivki\AlgorithmPractice\AlgorithmPractice\bin\Debug\net8.0\AlgorithmPractice.runtimeconfig.json" target="lib\net8.0\AlgorithmPractice.runtimeconfig.json" />
+    <file src="C:\Users\user1\Documents\Rivki\AlgorithmPractice\AlgorithmPractice\bin\Debug\net8.0\AlgorithmPractice.dll" target="lib\net8.0\AlgorithmPractice.dll" />
+  </files>
+</package>

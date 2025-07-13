@@ -9,4 +9,5 @@
 //Console.WriteLine($"The length of the longest increasing subsequence using recursion is: {recResult}");
 using AlgorithmPractice;
 
-LongestIncreasingSubsequenceTests.RunTests();
+//LongestIncreasingSubsequenceTests.RunTests();
+MajorityElementTests.RunTests();    

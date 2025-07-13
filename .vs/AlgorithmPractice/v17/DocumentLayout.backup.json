@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\longestincreasingsubqunce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\longestincreasingsubqunce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\majorityelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\majorityelementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\majorityelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\majorityelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\longestincreasingsubsequencetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\longestincreasingsubsequencetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\consecutivenumberssum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\consecutivenumberssum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\longestincreasingsubqunce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\longestincreasingsubqunce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MajorityElementTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MajorityElementTests.cs",
+              "RelativeDocumentMoniker": "AlgorithmPractice\\MajorityElementTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MajorityElementTests.cs",
+              "RelativeToolTip": "AlgorithmPractice\\MajorityElementTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:35:06.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MajorityElement.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MajorityElement.cs",
+              "RelativeDocumentMoniker": "AlgorithmPractice\\MajorityElement.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MajorityElement.cs",
+              "RelativeToolTip": "AlgorithmPractice\\MajorityElement.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:29:45.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsecutiveNumbersSum.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\ConsecutiveNumbersSum.cs",
+              "RelativeDocumentMoniker": "AlgorithmPractice\\ConsecutiveNumbersSum.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\ConsecutiveNumbersSum.cs",
+              "RelativeToolTip": "AlgorithmPractice\\ConsecutiveNumbersSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T19:25:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LongestIncreasingSubsequenceTests.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\LongestIncreasingSubsequenceTests.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\LongestIncreasingSubsequenceTests.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\LongestIncreasingSubsequenceTests.cs",
               "RelativeToolTip": "AlgorithmPractice\\LongestIncreasingSubsequenceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T21:14:35.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "LongestIncreasingSubqunce.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\LongestIncreasingSubqunce.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\LongestIncreasingSubqunce.cs",
               "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\LongestIncreasingSubqunce.cs",
               "RelativeToolTip": "AlgorithmPractice\\LongestIncreasingSubqunce.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T18:53:56.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\Program.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\Program.cs",
-              "RelativeToolTip": "AlgorithmPractice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\Program.cs*",
+              "RelativeToolTip": "AlgorithmPractice\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T18:41:30.749Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
