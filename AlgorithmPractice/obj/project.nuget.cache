@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EH5HZ5SRgHU=",
+  "dgSpecHash": "GRqOsMMoOBA=",
   "success": true,
   "projectFilePath": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\AlgorithmPractice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
