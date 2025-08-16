@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\validbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\validbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\users\\user1\\documents\\rivki\\algorithmpractice\\algorithmpractice\\inordertraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F072A9-CAD6-42BF-9447-1528F0F34105}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\inordertraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -139,6 +143,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ValidBST.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\ValidBST.cs",
+              "RelativeDocumentMoniker": "AlgorithmPractice\\ValidBST.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\ValidBST.cs",
+              "RelativeToolTip": "AlgorithmPractice\\ValidBST.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T21:04:35.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InorderTraversal.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\InorderTraversal.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\InorderTraversal.cs",
@@ -150,12 +171,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IsSymmetric.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\IsSymmetric.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\IsSymmetric.cs",
@@ -163,12 +180,11 @@
               "RelativeToolTip": "AlgorithmPractice\\IsSymmetric.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAgwBQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T20:19:10.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T20:19:10.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SameTree.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\SameTree.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\SameTree.cs",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RemoveNthFromEndInLinkedList.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\RemoveNthFromEndInLinkedList.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\RemoveNthFromEndInLinkedList.cs",
@@ -192,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MergeSortedLinkedList.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MergeSortedLinkedList.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\MergeSortedLinkedList.cs",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SwapPairs.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\SwapPairs.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\SwapPairs.cs",
@@ -216,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlusOneSolution.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\PlusOneSolution.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\PlusOneSolution.cs",
@@ -228,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Path Sum In Tree.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\Path Sum In Tree.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\Path Sum In Tree.cs",
@@ -240,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SortedArrayToBSTSolution.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\SortedArrayToBSTSolution.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\SortedArrayToBSTSolution.cs",
@@ -252,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MergeIntervals.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MergeIntervals.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\MergeIntervals.cs",
@@ -264,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AddTwoNumbersSolution.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\AddTwoNumbersSolution.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\AddTwoNumbersSolution.cs",
@@ -276,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LargestNumverSolution.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\LargestNumverSolution.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\LargestNumverSolution.cs",
@@ -288,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CountJumps.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\CountJumps.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\CountJumps.cs",
@@ -300,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WiggleSortSolution.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\WiggleSortSolution.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\WiggleSortSolution.cs",
@@ -312,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CanJumpSolution.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\CanJumpSolution.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\CanJumpSolution.cs",
@@ -324,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ThreeZeroSum.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\ThreeZeroSum.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\ThreeZeroSum.cs",
@@ -336,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MaxProfitSolution.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MaxProfitSolution.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\MaxProfitSolution.cs",
@@ -348,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MergeArrays.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MergeArrays.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\MergeArrays.cs",
@@ -360,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MinLevelSumTreeNode.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MinLevelSumTreeNode.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\MinLevelSumTreeNode.cs",
@@ -372,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "SubArrayZeroSum.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\SubArrayZeroSum.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\SubArrayZeroSum.cs",
@@ -384,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "TwoSum.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\TwoSum.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\TwoSum.cs",
@@ -396,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "TreeNode.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\TreeNode.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\TreeNode.cs",
@@ -408,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "DeepestNode.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\DeepestNode.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\DeepestNode.cs",
@@ -420,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "MajorityElement.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MajorityElement.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\MajorityElement.cs",
@@ -432,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "LongestIncreasingSubsequenceTests.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\LongestIncreasingSubsequenceTests.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\LongestIncreasingSubsequenceTests.cs",
@@ -444,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "MajorityElementTests.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\MajorityElementTests.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\MajorityElementTests.cs",
@@ -456,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "BinarySearch.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\BinarySearch.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\BinarySearch.cs",
@@ -468,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ConsecutiveNumbersSum.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\ConsecutiveNumbersSum.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\ConsecutiveNumbersSum.cs",
@@ -480,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BinarySearchTests.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\BinarySearchTests.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\BinarySearchTests.cs",
@@ -492,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\Program.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\Program.cs",
@@ -504,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "LongestIncreasingSubqunce.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Documents\\Rivki\\AlgorithmPractice\\AlgorithmPractice\\LongestIncreasingSubqunce.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\LongestIncreasingSubqunce.cs",
