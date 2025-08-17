@@ -21,7 +21,7 @@ namespace AlgorithmPractice
 
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
-            ListNode dummyHead = new ListNode(0); // ראש זמני
+            ListNode dummyHead = new ListNode(0); 
             ListNode current = dummyHead;
             int carry = 0;
 
@@ -40,7 +40,7 @@ namespace AlgorithmPractice
                 if (l2 != null) l2 = l2.next;
             }
 
-            return dummyHead.next; // דילוג על הראש הזמני
+            return dummyHead.next; 
         }
 
     }
