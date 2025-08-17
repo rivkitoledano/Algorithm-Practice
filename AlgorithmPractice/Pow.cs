@@ -12,7 +12,7 @@ namespace AlgorithmPractice
         public double MyPow(double x, int n)
         {
             if (n == 0) return 1;
-            long N = n; // המרה ל-long לטיפול ב-n שלילי קיצוני
+            long N = n; 
             if (N < 0)
             {
                 x = 1 / x;
